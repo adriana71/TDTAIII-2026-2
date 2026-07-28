@@ -1,11 +1,11 @@
 
-## Reconstrucción del punto de partida del proyecto
+## Reconstrucción del punto de partida del proyecto  
 
-Duración: 3 horas
-Modalidad: 2 horas autónomas + 1 hora presencial
-Producto: Matriz diagnóstica de continuidad y recuperación
-Evaluación: diagnóstica y formativa, sin calificación sumativa
-
+Duración: 3 horas  
+Modalidad: 2 horas autónomas + 1 hora presencial  
+Producto: Matriz diagnóstica de continuidad y recuperación  
+Evaluación: diagnóstica y formativa, sin calificación sumativa  
+ 
 ### Propósito
 
 Reconstruir, a partir de la memoria del equipo y de las evidencias disponibles, el estado actual del proyecto desarrollado en TDTA I–II
