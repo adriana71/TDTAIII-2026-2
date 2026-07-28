@@ -1,11 +1,11 @@
 # Actividad autodidacta: Mapa de oportunidades de automatización 🗺️
 
-**Unidad:** 1. TDTA y sistemas de automatización
-**Modalidad:** Trabajo individual previo y revisión presencial
-**Tiempo estimado de trabajo autónomo:** 2 a 3 horas
-**Tiempo de revisión en clase:** 1 hora
-**Producto:** Mapa individual con tres oportunidades de automatización
-**Ponderación:** Insumo para el producto de la Unidad 1, cuyo valor es 5 % del curso.
+**Unidad:** 1. TDTA y sistemas de automatización  
+**Modalidad:** Trabajo individual previo y revisión presencial  
+**Tiempo estimado de trabajo autónomo:** 2 a 3 horas  
+**Tiempo de revisión en clase:** 1 hora  
+**Producto:** Mapa individual con tres oportunidades de automatización  
+**Ponderación:** Insumo para el producto de la Unidad 1, cuyo valor es 5 % del curso.  
 
 ## Objetivo :rocket:
 
