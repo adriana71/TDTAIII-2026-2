@@ -1,4 +1,4 @@
-# Actividad autodidacta: Mapa de oportunidades de automatización :map:
+# Actividad autodidacta: Mapa de oportunidades de automatización 🗺️
 
 **Unidad:** 1. TDTA y sistemas de automatización
 **Modalidad:** Trabajo individual previo y revisión presencial
